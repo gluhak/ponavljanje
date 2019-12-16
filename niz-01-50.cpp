@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main(){
+
+    
+    for(int i=0;i<=4;i++){
+    for(int j=0;j<=9;j++){
+    
+    cout<<i<<"-"<<j<<endl;
+    
+}
+}
+cout<<"5-0"<<endl;
+    
+    system("PAUSE");
+    return 0;
+}
